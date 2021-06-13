@@ -1,0 +1,68 @@
+body
+{
+	margin:0;
+	padding:0;
+	font-family:magnat;
+	background-image:url(walpaper.jpg);
+	background-size:cover;
+	background-position:;
+	position:relative;
+   transparent:all 0.6s ease;
+}
+.sign-up-form{
+	width:300px;
+	box-shadow:0 0 25px 0 rgba(0,0,0,0.6);
+	padding:20px;
+	margin-top:6%;
+	margin-left:37%;
+	text-align:center;
+}
+.sign-up-form h1{
+	color:black;
+	margin-bottom:30px;
+}
+.User-box{
+	border-radius:15px;
+	margin:10px 0;
+	padding:8px;
+	border: solid yellow;
+	border:none;
+}
+button
+{
+	color:#fff;
+	width:90%;
+	padding:10px;
+	border-radius:20px;
+	font-size:15px;
+	margin:10px 0;
+	border:none;
+	outline:none;
+	cursor:pointer;
+}
+.sign-btn{
+	background-color:blue;
+}
+.sign-btn:hover{
+	background-color:#21afde;
+}
+.facebook-btn{
+	background-color:#21afde;
+
+}
+a{
+	text-decoration:none;
+}
+hr{
+	margin-top:20px;
+	width:80%;
+}
+.or{
+	background:#fff;
+	width:25px;
+	margin:-19px auto 10px;
+}
+img{
+	width:70px;
+	margin-top:-50px;
+}
